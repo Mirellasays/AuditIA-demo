@@ -1,4 +1,4 @@
-# AuditIA — demonstração local
+# AuditIA-demo — demonstração local
 
 MVP estático para demonstrar o fluxo de recebimento, conferência documental, análise simulada, revisão médica, indicadores e exportação de relatório. A aplicação usa **HTML, CSS e JavaScript puros**, sem módulos ES, build step, backend, dependências ou chamadas externas. É compatível com GitHub Pages e pode ser aberta diretamente no navegador.
 
